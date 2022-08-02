@@ -1,0 +1,18 @@
+{
+  "format": "GITHUB",
+  "author": "Daybreak365",
+  "repository": "SkAbi",
+  "name": "SkAbi",
+  "displayName": "SkAbi",
+  "developer": "새벽",
+  "icon": "9bdc729d-c6ce-4906-8c1e-3634c2c90438",
+  "links": [
+    {
+      "name": "Github",
+      "link": "https://github.com/Daybreak365"
+    }
+  ],
+  "description": [
+    "여러 Skript 문법을 추가해주는 애드온"
+  ]
+}
