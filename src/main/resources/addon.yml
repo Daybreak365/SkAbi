@@ -1,0 +1,3 @@
+name: SkAbi
+main: daybreak.abilitywar.skabi.SkAbi
+version: ${project.version}
