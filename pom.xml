@@ -5,10 +5,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>SkAbi</artifactId>
-    <version>${revision}.1</version>
+    <version>${revision}</version>
 
     <parent>
-        <groupId>daybreak.abilitywar</groupId>
+        <groupId>kr.daybreak</groupId>
         <artifactId>AbilityWar-Parent</artifactId>
         <version>${revision}</version>
         <relativePath>../AbilityWar/pom.xml</relativePath>
@@ -27,7 +27,7 @@
             <artifactId>AbilityWar</artifactId>
             <version>${revision}</version>
             <scope>system</scope>
-            <systemPath>${project.basedir}/libraries/AbilityWar-${revision}.jar</systemPath>
+            <systemPath>${project.basedir}/../AbilityWar/modules/Jar/target/AbilityWar-${revision}.jar</systemPath>
         </dependency>
         <dependency>
             <groupId>com.github.SkriptLang</groupId>
